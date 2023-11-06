@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: super-config
+data:
+  cewl: value
+  rane: sej
